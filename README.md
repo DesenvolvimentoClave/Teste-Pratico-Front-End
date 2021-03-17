@@ -32,9 +32,19 @@ Bootstrap<br>
 UI/UX<br>
 React Native e Ionic<br>
 
-# O que você fazer?
+# O que você deve fazer?
 Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo:
+x<br>
+x<br>
+x<br>
+x<br>
+x<br>
+x<br>
+x<br>
 
+Como escopo para o desenvolvimento você deve aplica:
+
+xxxxxxxxxxxxxxx
 
 # Entre os critérios de avaliação estão:
 
