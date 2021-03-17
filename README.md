@@ -36,14 +36,14 @@ Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos ab
 
 # Entre os critérios de avaliação estão:
 
-Facilidade de configuração do projeto
-Performance
-Código limpo e organização
-Documentação de código
-Documentação do projeto (readme)
-Arquitetura
-Boas práticas de desenvolvimento
-Design Patterns
+Facilidade de configuração do projeto<br>
+Performance<br>
+Código limpo e organização<br>
+Documentação de código<br>
+Documentação do projeto (readme)<br>
+Arquitetura<br>
+Boas práticas de desenvolvimento<br>
+Design Patterns<br>
 
 
 # Sobre você
