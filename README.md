@@ -30,8 +30,8 @@ Bootstrap<br>
 UI/UX<br>
 React Native e Ionic<br>
 
-# O que preciso fazer?
-Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos abaixo:
+# O que você fazer?
+Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo:
 
 
 # Entre os critérios de avaliação estão:
