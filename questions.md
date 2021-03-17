@@ -1,6 +1,6 @@
 # QUEREMOS SABER MAIS SOBRE VOCÊ, SUAS EXPERIÊNCIAS E EXPECTATIVAS. 
-# É IMPORTANTE QUE VOCÊ SE DEDIQUE NA HORA DE RESPONDER. 
-# O DETALHAMENTO É IMPORTANTE PARA ENTENDERMOS A SUA VISÃO COM RELAÇÃO ÀS PERGUNTAS.
+É IMPORTANTE QUE VOCÊ SE DEDIQUE NA HORA DE RESPONDER. 
+O DETALHAMENTO É IMPORTANTE PARA ENTENDERMOS A SUA VISÃO COM RELAÇÃO ÀS PERGUNTAS.
 
 1) Descreva a sua equipe atual ou da sua última experiência, se não estiver empregado no momento. O que você foi positivo e que não foi positivo na sua experiência.
 
@@ -16,4 +16,5 @@
 
 7) Possui experiência com metodologias ágeis? Cite as principais atividades e práticas ágeis que você já aplicou nos projetos que participou.
 
-# Responder as perguntas para o email: desenvolvimento@claveconsultoria.com.br
+# Responder as perguntas para o email: 
+desenvolvimento@claveconsultoria.com.br
