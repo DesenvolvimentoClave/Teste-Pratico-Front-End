@@ -33,7 +33,7 @@ UI/UX<br>
 React Native e Ionic<br>
 
 # O que você deve fazer?
-Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo:
+Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo:<br>
 x<br>
 x<br>
 x<br>
