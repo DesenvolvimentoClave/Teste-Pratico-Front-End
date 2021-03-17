@@ -14,27 +14,27 @@ Aqui todos são protagonistas da sua carreira e viram grandes especialistas na s
 Acreditamos em tudo que o marcado traz de novo e que possa agregar ao nosso desenvolveimento. Estamos dispostos a ousar sempre, porque zona de conforto não é com a gente.
 Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
-Práticas ágeis como Kanban / Scrum
-JavaScript
-JQuery
-VueJs
-AngularJs
-NodeJs
-React
-CSS/SASS
-Escalabilidade
-RestFul APIs e aplicações distribuídas
-Git
-Material Design
-Bootstrap
-UI/UX
-React Native e Ionic
+Práticas ágeis como Kanban / Scrum<br>
+JavaScript<br>
+JQuery<br>
+VueJs<br>
+AngularJs<br>
+NodeJs<br>
+React<br>
+CSS/SASS<br>
+Escalabilidade<br>
+RestFul APIs e aplicações distribuídas<br>
+Git<br>
+Material Design<br>
+Bootstrap<br>
+UI/UX<br>
+React Native e Ionic<br>
 
 # O que preciso fazer?
 Vamos ser práticos e diretos, se você quer trabalhar conosco siga os passos abaixo:
 
 
-Entre os critérios de avaliação estão:
+# Entre os critérios de avaliação estão:
 
 Facilidade de configuração do projeto
 Performance
