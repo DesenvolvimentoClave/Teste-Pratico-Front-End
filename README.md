@@ -6,7 +6,7 @@ Se você é um profissional que busca autoconhecimento para desenvolver competê
 Como Desenvolvedor Front-End você irá atuar no desenvolvimento de soluções em arquitetura AngularJs, Java Script, React, RestFul APis, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
 
 # Como é o nosso de desenvolvedores?
-Somos um time de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.
+Somos uma equipe de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.
 Somos altamente preocupados com a experiência do nosso cliente e fazemos do nosso ambiente de desenvolvimento o descontraído, leve e agradável ao nosso time que trabalha super focado em busca de muitas pizzas por entregas! rs :D
 
 # O nosso trabalho
