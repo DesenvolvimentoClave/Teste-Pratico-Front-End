@@ -59,4 +59,4 @@ Design Patterns<br>
 
 
 # Sobre você
-Queremos saber um pouco mais sobre você também :) Por favor, responda o questionário do arquivo questions.md.
+Queremos saber um pouco mais sobre você também :) Por favor, responda o questionário do arquivo questions.md
