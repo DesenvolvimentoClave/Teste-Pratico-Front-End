@@ -1,17 +1,19 @@
 # Quem é a Clave?
-Com a experiência de mais de 25 anos de mercado em processos de mapeamento de perfil e potencial, atrelada às melhores práticas e processos comprovados em toda nossa rede de clientes, a Clave se consolidou com uma das melhores consultorias em recursos humanos do mercado. Atuando de forma objetiva, transparente e ética, ganhamos o reconhecimento e confiança dos candidatos e das empresas de diversos portes e segmentos em todo o território brasileiro.
+Com a experiência de mais de 25 anos de mercado em processos de mapeamento de perfil e potencial, atrelada às melhores práticas e processos comprovados em toda nossa rede de clientes, a Clave se consolidou com uma das melhores consultorias em recursos humanos do mercado. Atuando de forma objetiva, transparente e ética. <br>
+Ganhamos o reconhecimento e confiança dos candidatos e das empresas de diversos portes e segmentos em todo o território brasileiro.
 
 Se você é um profissional que busca autoconhecimento para desenvolver competências que visam maximizar o potencial pessoal e profissional na busca de objetivos e metas com muita disposição e proatividade para trabalhar em uma empresa transparente em crescente expansão, você é um forte candidato a fazer parte deste time e crescer por meritocracia e ser reconhecido como um grande profissional conosco. =)
 
-Como Desenvolvedor Front-End você irá atuar no desenvolvimento de soluções em arquitetura AngularJs, Java Script, React, RestFul APis, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
+Como Desenvolvedor Front-End você irá atuar no desenvolvimento de soluções em arquitetura AngularJs, JavaScript, React, RestFul APis, integrações com sistemas parceiros, soluções escaláveis, participando de todo o processo de desenvolvimento, desde tomadas de decisões à codificação e testes.
 
 # Como é o time nosso de desenvolvedores?
-Somos uma equipe de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.
-Somos altamente preocupados com a experiência do nosso cliente e fazemos do nosso ambiente de desenvolvimento o descontraído, leve e agradável ao nosso time que trabalha super focado em busca de muitas pizzas por entregas! :D
+Somos uma equipe de desenvolvimento ágil, focado em fazer as coisas acontecerem. Trabalhamos com Kanban, entregas contínuas, Github, IDE em Cloud, aplicações distribuídas entre outras tecnologias que contribuem com entregas de qualidade e assertivas no conteúdo focado ao negócio.<br>
+Somos altamente preocupados com a experiência do nosso cliente e fazemos do nosso ambiente de desenvolvimento o mais descontraído, leve e agradável ao nosso time que trabalha super focado em busca de muitas pizzas por entregas! :D
 
 # O nosso trabalho
-Aqui todos são protagonistas da sua carreira e viram grandes especialistas na sua área de atuação. Quer fazer parte deste time que te muita atitude para fazer acontecer? 
-Acreditamos em tudo que o marcado traz de novo e que possa agregar ao nosso desenvolveimento. Estamos dispostos a ousar sempre, porque zona de conforto não é com a gente.
+Aqui todos são protagonistas da sua carreira e se tornam grandes especialistas na sua área de atuação. <br>
+Quer fazer parte deste time que tem muita atitude para fazer acontecer? <br>
+Acreditamos em tudo que o mercado traz de novo e que possa agregar ao nosso desenvolvimento. Estamos dispostos a ousar sempre, porque zona de conforto não é com a gente.
 Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
 Práticas ágeis como Kanban / Scrum<br>
