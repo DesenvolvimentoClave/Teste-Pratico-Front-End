@@ -4,9 +4,9 @@ O DETALHAMENTO É IMPORTANTE PARA ENTENDERMOS A SUA VISÃO COM RELAÇÃO ÀS PER
 
 1) Descreva a sua equipe atual ou da sua última experiência, se não estiver empregado no momento. O que você foi positivo e que não foi positivo na sua experiência.
 
-2) Pensando no nosso time e na sua experiência conosco, o que seria na sua visão, uma equipe ideal?
+2) Pensando na nossa equipe e na sua experiência conosco, o que seria na sua visão, uma equipe ideal?
 
-3) Descreva o seu perfil de desenvolvedor e as suas habilidades como front-end?
+3) Descreva o seu perfil de desenvolvedor e as suas habilidades como front-end.
 
 4) Pensando como seus parceiros de trabalho e o seu líder, como descreveriam as suas habilidades e personalidade?
 
