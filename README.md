@@ -42,7 +42,7 @@ x<br>
 x<br>
 x<br>
 
-Como escopo para o desenvolvimento você deve aplica:
+Como escopo para o desenvolvimento você deve aplicar:
 
 xxxxxxxxxxxxxxx
 
