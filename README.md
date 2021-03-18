@@ -32,7 +32,7 @@ Bootstrap<br>
 UI/UX<br>
 React Native e Ionic<br>
 
-# O que você deve fazer? - Teste Prático -
+# O que você deve fazer? <br>- Teste Prático -
 Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.<br>
 
 Crie um sistema web que contenha os seguintes itens:<br>
