@@ -34,13 +34,15 @@ React Native e Ionic<br>
 
 # O que você deve fazer?
 Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo:<br>
-x<br>
-x<br>
-x<br>
-x<br>
-x<br>
-x<br>
-x<br>
+
+Crie um sistema web que contenha os seguintes itens:<br>
+
+1) Acesso - Tela de Login apresentando apenas a captação de e-mail do usuário<br>
+2) Menu - Dashboard para direcionar a tela de Dashboard para empresas e Usuários. E Usuários apresentando cards com todos os usuários cadastrados no sistema<br>
+3) Dashboard Empresas - apresentando análise de dados das empresas de pequeno, médio e grande porte. <br>
+4) Dashboard Usuários - apresentando análise de dados dos usuários por gênero.<br>
+5) Apresentação de Usuários - apresentando os usuários cadastrados.<br>
+6) Modal de Informações de Usuários - apresentação dos dados dos usuários cadastrados.<br>
 
 Como escopo para o desenvolvimento você deve aplicar:
 
