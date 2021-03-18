@@ -32,7 +32,7 @@ Bootstrap<br>
 UI/UX<br>
 React Native e Ionic<br>
 
-# O que você deve fazer?
+# O que você deve fazer? - Teste Prático -
 Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.<br>
 
 Crie um sistema web que contenha os seguintes itens:<br>
@@ -52,6 +52,7 @@ Para desenvolver o projeto você deve ....
 
 # Entre os critérios de avaliação estão:
 
+Atendimento ao escopo do teste prático<br>
 Facilidade de configuração do projeto<br>
 Performance<br>
 Código limpo e organização<br>
