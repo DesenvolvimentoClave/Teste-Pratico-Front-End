@@ -40,7 +40,7 @@ Crie um sistema web que contenha os seguintes itens:<br>
 1) <b>Acesso</b> - Tela de Login apresentando apenas a captação de e-mail do usuário;<br>
 2) <b>Menu</b> - <br>
 <b><i>Dashboard</i></b> - para direcionar a tela de Dashboard para apresentação de dados de empresas e Usuários.<br>
-<b><i>Usuários<b></i> - apresentando cards com todos os usuários cadastrados no sistema.<br>
+<b><i>Usuários</b></i> - apresentando cards com todos os usuários cadastrados no sistema.<br>
 3) <b>Dashboard Empresas</b> - apresentando análise de dados das empresas de pequeno, médio e grande porte; <br>
 4) <b>Dashboard Usuários</b> - apresentando análise de dados dos usuários por gênero;<br>
 5) <b>Apresentação de Usuários</b> - apresentando os usuários cadastrados;<br>
