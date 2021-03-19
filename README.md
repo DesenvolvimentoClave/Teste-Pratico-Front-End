@@ -37,14 +37,14 @@ Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos ab
 
 Crie um sistema web que contenha os seguintes itens:<br>
 
-1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar;<br>
-2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS:<br>
-3) <b><i>DASHBOARD</i></b> - Acesso para direcionar à tela de "Dashboard" para apresentação de dados de empresas e Usuários;<br>
-<b><i>Dashboard Empresas</i></b> - tela de apresentação de análise de dados das empresas por pequeno, médio e grande porte; <br>
-<b><i>Dashboard Usuários</i></b> - tela de apresentação de análise de dados dos usuários por gênero;<br>
-4) <b><i>USUÁRIOS</b></i> - Acesso para direcionar à tela de "Usuários" apresentando cards com todos os usuários cadastrados no sistema com busca de usuários e botão para cadastrar novo usuário;<br>
-<b><i>Modal de Apresentação de Usuários</i></b> - apresentação dos dados dos usuários cadastrados.<br>
-<b><i>Modal de Cadastramento de Usuários</i></b> - tela apresentando os usuários cadastrados;<br>
+1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br>
+2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS.<br>
+3) <b><i>DASHBOARD</i></b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+<b><i>3.1) Dashboard Empresas</i></b> - tela de apresentação de análise de dados das empresas por pequeno, médio e grande porte; <br>
+<b><i>3.2) Dashboard Usuários</i></b> - tela de apresentação de análise de dados dos usuários por gênero.<br>
+4) <b><i>USUÁRIOS</b></i> - Acesso para direcionar à tela de "Usuários" apresentando cards com todos os usuários cadastrados no sistema com busca de usuários e botão para cadastrar novo usuário.<br>
+<b><i>4.1) Modal de Apresentação de Usuários</i></b> - apresentação dos dados dos usuários cadastrados;<br>
+<b><i>4.2) Modal de Cadastramento de Usuários</i></b> - tela apresentando os usuários cadastrados.<br>
 
 Neste link você pode acessar a ideia do protótipo com o fluxo do projeto: https://claveconsultoria.com.br
 
