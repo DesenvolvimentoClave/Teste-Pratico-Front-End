@@ -43,10 +43,11 @@ Crie um sistema web que contenha os seguintes itens:<br>
 <b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: pequeno, médio e grande, e botão para voltar ao menu; <br>
 <b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado, e botão para voltar ao menu.<br><br>
 4) <b><i>USUÁRIOS</b></i> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
+
 <b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (apresentar Nome de acordo o carregamento da API);<br>
 - E-mail (apresentar E-mail de acordo o carregamento da API);<br>
-- Gênero(apresentar Gênero de acordo o carregamento da API);<br>
+- Gênero (apresentar Gênero de acordo o carregamento da API);<br>
 - Função (apresentar Função de acordo o carregamento da API);<br>
 - Celular (apresentar Celular de acordo o carregamento da API);<br> 
 - País (apresentar País de acordo o carregamento da API);<br>
@@ -56,14 +57,14 @@ Crie um sistema web que contenha os seguintes itens:<br>
 <b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar, Excluir e Salvar e campos com os seguintes atributos: <br>
 - Nome de Usuário (campo de texto simples);<br>
 - E-mail (campo de texto requerido para e-mail válido);<br>
-- Gênero(dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
+- Gênero (dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
 - Função (dropdown com Administrador, Operação e Básico);<br>
 - Celular (campo de adição de telefone com ddd + 9 dígitos);<br> 
 - País (dropdown com carregamento de países);<br>
 - Empresa (campo de texto simples);<br>
 - Porte (dropdown com Pequeno, Médio e Grande);<br>
 
-Neste link você pode acessar a ideia do protótipo com o fluxo do projeto: https://claveconsultoria.com.br
+Neste link você pode acessar o protótipo com o fluxo do projeto: https://claveconsultoria.com.br
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
