@@ -33,51 +33,55 @@ UI/UX<br>
 React Native e Ionic<br>
 
 # O que você deve fazer? <br>- Teste Prático -
-Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.<br>
+Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos abaixo.
 
-Crie um sistema web que contenha os seguintes itens:<br>
+Crie um sistema web que contenha os seguintes itens:
 
 1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.<br><br>
+- os usuários deverão ser identificados por acesso Administrador e Básico. Captando apenas o e-mail do usuário para autenticação do perfil.
+
 2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.<br><br>
-3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.<br>
+- os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
+- os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.
 
-<b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: pequeno, médio e grande, e botão para voltar ao menu; <br>
+3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
-<b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado, e botão para voltar ao menu.<br><br>
+<b><i>3.1) Dashboard Empresas</i></b> - Tela de apresentação de total de empresas cadastradas, gráfico de barras de análise de dados das empresas por porte: Pequeno / Médio / Grande e botão para voltar ao menu;
 
-4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários apresentados na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
+<b><i>3.2) Dashboard Usuários</i></b> - Tela de apresentação de total de usuários cadastrados e gráfico de pizza de análise de dados dos usuários por gênero: Homem / Mulher / Homem Transgênero / Mulher Transgênero / Intergênero / Não Informado  e botão para voltar ao menu.<br><br>
+
+4) <b>USUÁRIOS</b> - Tela de "Usuários" apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.<br>
 
 <b><i>4.1) Modal de Apresentação de Usuários</i></b> - Ao clicar nos cards de usuários abre uma modal de apresentação e edição dos usuários cadastrados, botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
-- Nome de Usuário (apresentar Nome de acordo o carregamento da API);<br>
-- E-mail (apresentar E-mail de acordo o carregamento da API);<br>
-- Gênero (apresentar Gênero de acordo o carregamento da API);<br>
-- Função (apresentar Função de acordo o carregamento da API);<br>
-- Celular (apresentar Celular de acordo o carregamento da API);<br> 
-- País (apresentar País de acordo o carregamento da API);<br>
-- Empresa (apresentar Empresa de acordo o carregamento da API);<br>
-- Porte (apresentar Porte de acordo o carregamento da API);<br>
+- Nome de Usuário (apresentar Nome de acordo com a API);<br>
+- E-mail (apresentar E-mail de acordo com a API);<br>
+- Gênero (apresentar Gênero de acordo com a API);<br>
+- Função (apresentar Função de acordo com a API);<br>
+- Celular (apresentar Celular de acordo com a API);<br> 
+- País (apresentar País de acordo com a API);<br>
+- Empresa (apresentar Empresa de acordo com a API);<br>
+- Porte (apresentar Porte de acordo com a API);
 
 <b><i>4.2) Modal de Cadastramento de Usuários</i></b> - Ao clicar no botão de "Cadastrar Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar / Excluir / Salvar e campos com os seguintes atributos: <br>
-- Nome de Usuário (campo de texto simples);<br>
+- Nome de Usuário (campo de texto requerido simples);<br>
 - E-mail (campo de texto requerido para e-mail válido);<br>
-- Gênero (dropdown com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
-- Função (dropdown com Administrador e Básico);<br>
+- Gênero (dropdown requerido  com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
+- Função (dropdown requerido com Administrador e Básico);<br>
 - Celular (campo de adição de telefone com ddd + 9 dígitos);<br> 
 - País (dropdown com carregamento de países);<br>
 - Empresa (campo de texto simples);<br>
-- Porte (dropdown com Pequeno, Médio e Grande);<br>
+- Porte (dropdown com Pequeno, Médio e Grande);
 
-Neste link você pode acessar o protótipo com o fluxo do projeto: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
+Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-pratico-Front-End.png"> Acessar</a>
 
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
 API para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
-Linguagens / Frameworks: <br>
-Estilos: <br>
-IDE: <br>
-Banco de Dados:<br>
-Estrutura do projeto: <br>
-Documentação: <br>
+Linguagens / Frameworks: SpringBoot ou NodeJS<br>
+IDE: Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io)<br>
+Banco de Dados: MySQl (local)<br>
+Arquitetura/Estrutura do projeto: Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
+Documentação: Livre escolha para apresentação do formato da documentação.
 
 # Entre os critérios de avaliação estão:
 
@@ -89,7 +93,7 @@ Documentação de código<br>
 Documentação do projeto (readme)<br>
 Arquitetura e tecnologias aplicadas<br>
 Boas práticas de desenvolvimento<br>
-Design Patterns<br>
+Design Patterns/Padrões de Projetos
 
 
 # Sobre você
