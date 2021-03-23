@@ -38,11 +38,11 @@ Vamos ser práticos e diretos. Se você quer trabalhar conosco siga os passos ab
 Crie um sistema web que contenha os seguintes itens:
 
 1) <b>Acesso</b> - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
-- os usuários deverão ser identificados por acesso Administrador e Básico. Captando apenas o e-mail do usuário para autenticação do perfil.<br>
+1.1) os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.<br><br>
 
 2) <b>Menu</b> - Tela de Menu apresentando a logo, nome do usuário e os intens abaixo de DASHBOARD e USUÁRIOS. No final da tela adicionar botão de sair do sistema para deslogar o usuário.
-- os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
-- os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br>
+2.1) os usuários com o perfil "Administrador" possuem acesso a todo conteúdo.
+2.2) os usuários com o perfil "Básico" possuem acesso apenas ao perfil dele para visualizar o seu cadastro.<br><br>
 
 3) <b>DASHBOARD</b> - Acesso para direcionar à tela de "Dashboard" para apresentação de análise de dados de Empresas e Usuários.
 
@@ -81,7 +81,7 @@ Neste link você pode acessar o protótipo com o fluxo do projeto: Acessar <a hr
 <b>IDE:</b> Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).<br>
 <b>Banco de Dados:</b> MySQl (local).<br>
 <b>Arquitetura/Estrutura do projeto:</b> Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
-<b>Documentação:</b> Livre escolha para apresentação do formato da documentação.<br>
+<b>Documentação:</b> Livre escolha para apresentação do formato da documentação.
 
 # Entre os critérios de avaliação estão:
 
