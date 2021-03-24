@@ -73,7 +73,7 @@ Crie um sistema web que contenha os seguintes itens:
 - E-mail (campo de texto requerido para e-mail válido);<br>
 - Gênero (dropdown requerido  com Homem, Mulher, Homem Transgênero, Mulher Transgênero, Intergênero e Não Informado);<br>
 - Função (dropdown requerido com Administrador e Básico);<br>
-- Celular (campo de adição de telefone com ddd + 9 dígitos);<br> 
+- Celular (campo requerido condicional de celular com ddd + 9 dígitos);<br> 
 - País (dropdown com carregamento de países);<br>
 - Empresa (campo de texto simples);<br>
 - Porte (dropdown com Pequeno, Médio e Grande);
@@ -94,9 +94,9 @@ Neste link você pode acessar o diagrama do fluxo do projeto: <a href="https://w
 <b>Como escopo para o desenvolvimento você deve aplicar:</b>
 
 <b>API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
-<b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngulaJS, <br>
+<b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS, <br>
 <b>IDE:</b> Eclipse / VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).<br>
-<b>Banco de Dados:</b> MySQl (local).<br>
+<b>Banco de Dados:</b> MySql (local).<br>
 <b>Arquitetura/Estrutura do projeto:</b> Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
 <b>Documentação:</b> Livre escolha para apresentação do formato da documentação.
 
