@@ -101,7 +101,7 @@ Protótipo: <a href="https://www.claveconsultoria.com.br/wp-content/uploads/2021
 <b>API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
 <b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS, React e VueJS.<br>
 <b>Estilos:</b> Livre escolha.<br>
-<b>IDE - Sugestão</b> VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).<br>
+<b>IDE - Sugestão:</b> VS Code / Cronapp (IDE em nuvem onde atuamos https://cronapp.io).<br>
 <b>Arquitetura/Estrutura do projeto:</b> Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.<br>
 <b>Documentação:</b> Livre escolha para apresentação do formato da documentação.
 
