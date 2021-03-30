@@ -52,9 +52,11 @@ Vamos ser práticos e diretos.
 
 Crie um sistema web que contenha os seguintes itens:
 
-1. Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar. 
- :lock: **Autenticação de Perfil**
- Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.
+1. Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar.
+
+ 	:lock: **Autenticação de Perfil**
+	
+ 	Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.
 <br>
 
 2. **Home** -  Tela princinpal 
