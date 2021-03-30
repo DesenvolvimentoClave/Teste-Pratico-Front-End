@@ -160,7 +160,8 @@ API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
 
  - Apresentação do projeto
  -  Atendimento ao escopo do teste prático 
- - Performance Código limpo e organização de conteúdo 
+ - Performance 
+ - Código limpo e organização de conteúdo 
  - Documentação de código 
  - Documentação do projeto (readme)
  -  Arquitetura e tecnologias aplicadas 
