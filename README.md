@@ -52,12 +52,12 @@ Vamos ser práticos e diretos.
 
 Crie um sistema web que contenha os seguintes itens:
 
-1) Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar. 
+1. Acesso - Tela de Login apresentando logo, campo de e-mail e botão de entrar. 
  :lock: **Autenticação de Perfil**
  Os usuários deverão ser identificados por acesso Administrador e Básico, captando apenas o e-mail do usuário para autenticação do perfil.
 <br>
 
-2) **Home** -  Tela princinpal 
+2. **Home** -  Tela princinpal 
  - Apresentar a logo 
  - Nome do usuário
  - Menu de Navegação: DASHBOARD, USUÁRIOS e MEU PERFIL. 
@@ -90,7 +90,8 @@ Crie um sistema web que contenha os seguintes itens:
    Transgênero / Intergênero / Não Informado e botão para voltar ao
    menu.
 <br>
- 4. <b>USUÁRIOS</b> - Tela de "Usuários" 
+
+4. **USUÁRIOS**: Tela de "Usuários" 
  - **Card** - apresentando cards com todos os usuários presentes na API proposta por ordem alfabética com busca de usuários e botão para cadastrar novo usuário.
  - **Botão Cadastro** - Apresentar botão para um novo usuário.
 	 **Modal de Cadastramento de Usuários** - Ao clicar no botão de "Cadastrar 	Usuário" abre uma modal de cadastro de usuário com os botões de Cancelar  / Salvar e campos com os seguintes atributos: 
