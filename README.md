@@ -1,4 +1,8 @@
-[<img  align="center"  width="300"  src="https://www.claveconsultoria.com.br/wp-content/uploads/2020/07/clave_logo_horizontal_color.png ">](https://www.claveconsultoria.com.br/)
+
+<center>
+<img  align="center"  width="300"  src="https://www.claveconsultoria.com.br/wp-content/uploads/2020/07/clave_logo_horizontal_color.png ">
+</center>
+
 
 ## :office: Quem é a Clave ?
 
