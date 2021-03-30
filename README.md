@@ -46,9 +46,9 @@ Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, 
  - UI/UX 
  - React Native e Ionic
 
-## :loop: Teste prático de Fronte-end
+## :loop: Teste prático de Front-end
 
-Vamos ser práticos e diretos. 
+Vamos ser práticos e diretos! Siga as instruções abaixo:
 
 Crie um sistema web que contenha os seguintes itens:
 
