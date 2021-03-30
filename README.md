@@ -146,7 +146,8 @@ API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
 
 <b>IDE - Sugestão:</b> 
 [*VS Code*](https://code.visualstudio.com/)
- [*Cronapp*](https://cronapp.io) (IDE em nuvem onde atuamos).
+
+[*Cronapp*](https://cronapp.io) (IDE em nuvem onde atuamos).
  
 **Arquitetura/Estrutura do projeto**: Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.
 
