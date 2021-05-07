@@ -144,6 +144,7 @@ Crie um sistema web que contenha os seguintes itens:
 
 <b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS e VueJS.<br>
 <b>Estilos:</b> Livre escolha.
+<b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em Json.
 
 <b>IDE - Sugestão:</b> 
 [*VS Code*](https://code.visualstudio.com/)
@@ -154,7 +155,7 @@ Crie um sistema web que contenha os seguintes itens:
 
 **Documentação**: Livre escolha para apresentação do formato da documentação.
 
-**Para Entrega da Proposta**: O modelo apresentado é apenas uma ideia do que pode ser feito. Use a sua criatividade e traga algo com layout diferente mas sem perder a arquitetura principal e proposta do sistema.
+**Para Entrega da Proposta**: O modelo apresentado é apenas uma ideia do que pode ser feito. Use a sua criatividade e traga algo obedecendo a arquitetura principal e proposta do sistema.
 
 ## :mag_right: Entre os critérios de avaliação estão:
 
