@@ -160,12 +160,12 @@ Crie um sistema web que contenha os seguintes itens:
 ## :mag_right: Entre os critérios de avaliação estão:
 
  - Apresentação do projeto
- -  Atendimento ao escopo do teste prático 
+ - Atendimento ao escopo do teste prático 
  - Performance 
  - Código limpo e organização de conteúdo 
  - Documentação de código 
  - Documentação do projeto (readme)
- -  Arquitetura e tecnologias aplicadas 
+ - Arquitetura e tecnologias aplicadas 
  - Boas práticas de desenvolvimento e TDD 
  - Aplicação de conceitos de Design UI, UX e Responsividade 
  - Design Patterns/Padrões de Projetos
