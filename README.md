@@ -138,14 +138,11 @@ Crie um sistema web que contenha os seguintes itens:
 
 [Diagrama de caso de uso](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Caso-de-Uso_Prototipo-Teste-Pratico-dev.png) 
 
-[Diagrama de dados relacionais](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Diagrama-de-Dados-Relacionais.png)
-
 [Protótipo](https://www.claveconsultoria.com.br/wp-content/uploads/2021/03/Prototipo-Teste-Pratico-desenvolvedor.png)
 
 ## :rocket: Como escopo para o desenvolvimento você deve aplicar:
 
-API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
-<b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS, React e VueJS.<br>
+<b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS e VueJS.<br>
 <b>Estilos:</b> Livre escolha.
 
 <b>IDE - Sugestão:</b> 
@@ -156,6 +153,8 @@ API</b> para ser aplicada ao projeto: https://claveconsultoria.com.br<br>
 **Arquitetura/Estrutura do projeto**: Livre escolha do formato para apresentação da estrutura do projeto desenvolvido.
 
 **Documentação**: Livre escolha para apresentação do formato da documentação.
+
+**Para Entrega da Proposta**: O modelo apresentado é apenas uma ideia do que pode ser feito. Use a sua criatividade e traga algo com layout diferente mas sem perder a arquitetura principal e proposta do sistema.
 
 ## :mag_right: Entre os critérios de avaliação estão:
 
