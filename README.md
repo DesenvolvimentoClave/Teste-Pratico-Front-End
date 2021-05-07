@@ -144,7 +144,7 @@ Crie um sistema web que contenha os seguintes itens:
 
 <b>Linguagens / Frameworks:</b> Html, CSS, JavaScript, AngularJS e VueJS.<br>
 <b>Estilos:</b> Livre escolha.
-<b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em Json.
+<b>Consumo e Retorno de Dados:</b> Crie uma API que consuma e retorne os dados em JSON.
 
 <b>IDE - Sugestão:</b> 
 [*VS Code*](https://code.visualstudio.com/)
