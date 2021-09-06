@@ -36,7 +36,6 @@ Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, 
  - VueJs 
  - AngularJs
  - NodeJs 
- - React 
  - CSS/SASS 
  - Escalabilidade  
  - RestFul APIs e aplicações distribuídas 
@@ -44,7 +43,6 @@ Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, 
  - Material Design 
  - Bootstrap 
  - UI/UX 
- - React Native e Ionic
 
 ## :loop: Teste prático de Front-end
 
