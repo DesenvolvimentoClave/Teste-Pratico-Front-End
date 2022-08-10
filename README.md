@@ -31,17 +31,17 @@ Acreditamos em tudo que o mercado traz de novo e que possa agregar ao nosso dese
 Prezamos pela oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
 
  - Práticas ágeis como Kanban / Scrum 
+ - HTML
+ - CSS/SASS
+ - Tailwind
  - JavaScript 
- - JQuery 
- - VueJs 
  - AngularJs
- - NodeJs 
- - CSS/SASS 
  - Escalabilidade  
- - RestFul APIs e aplicações distribuídas 
- - Git 
+ - RestFul APIs e aplicações distribuídas (consumo)
+ - Git/GitHub 
  - Material Design 
  - Bootstrap 
+ - Design responsivo
  - UI/UX 
 
 ## :loop: Teste prático de Front-end
